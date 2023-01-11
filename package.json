@@ -17,7 +17,7 @@
     "chai-http": "3.0.0",
     "global": "^4.4.0",
     "graphql": "^14.4.2",
-    "knex": "0.13.0",
+    "knex": "2.4.0",
     "koa": "2.3.0",
     "koa-bodyparser": "^4.2.1",
     "koa-graphql": "^0.8.0",
